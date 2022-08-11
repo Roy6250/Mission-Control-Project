@@ -1,5 +1,10 @@
 # Mission Control Dashboard Project
 
+## Snapshots
+* Dashboard
+![image](https://user-images.githubusercontent.com/94747922/184240981-ab6b2388-615d-4c9d-b8d0-d0789acbfa4b.png)
+* Upcoming
+![image](https://user-images.githubusercontent.com/94747922/184240952-4779122b-fb99-47bf-a9cf-ccf180587515.png)
 
 
 ## Getting Started
